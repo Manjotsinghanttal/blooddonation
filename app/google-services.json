@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "915298210859",
+    "project_id": "savelives-blooddonationapp",
+    "storage_bucket": "savelives-blooddonationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915298210859:android:31d9c96bd478daf0aa466e",
+        "android_client_info": {
+          "package_name": "com.example.savelives_blooddonationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915298210859-2al8hpjk9hhngt26hcc8p21v6dreqid1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.savelives_blooddonationapp",
+            "certificate_hash": "a808ea896de5a8cf9c956c0e2a48ed1d8e218070"
+          }
+        },
+        {
+          "client_id": "915298210859-gsd6eokr2rnddc3rb0j7ipeh60nkmlse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMA05oyBw9VqEjcnFzViDdmgIHqylsPWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915298210859-gsd6eokr2rnddc3rb0j7ipeh60nkmlse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
